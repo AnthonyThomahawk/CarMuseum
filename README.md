@@ -5,6 +5,8 @@ This is a 3D rendered car museum, created with the Unity engine. It uses the HDR
 It contains many types of cars and from different eras (really old ones, and brand new ones). The user/player is able to virtually purchase miniatures of the cars, in a souvenir shop, while there is also a cinema room with 2 available movies to watch.
 
 # Source code and assets of the project
+<b> In this repository, only the C# scripts of the application are included </b>
+
 The entier Unity project can be found on my Google Drive (Its a 2GB rar archive, that could not be uploaded to this repository)
 
 [Unity project link](https://drive.google.com/file/d/1gmP5FzI9voKk51Glg7BP6ssDIYTZU_YE/view?usp=sharing)
